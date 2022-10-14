@@ -1,7 +1,7 @@
 
 > **eternityvps.com** (not 24/7)<br />
 > VM (EC2) na AWS com Amazon Linux 2<br />
-> NGINX, PHP, phpMyAdmin, MariaDB, Node.js, Ruby.<br />
+> NGINX, PHP, phpMyAdmin, MariaDB, Node.js<br />
 
 
 - [ ] Configurar para rodar aplicações Ruby
