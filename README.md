@@ -5,7 +5,7 @@
 
 
 - [ ] Configurar para rodar aplicações Ruby
-- [x] Configurar para rodar aplicações ASP.NET
+- [x] Configurar para rodar aplicações ASP.NET Core
 
 
 ![alt text](https://github.com/wiz2k20/wiz2k20/blob/main/atual.jpg?raw=true)
