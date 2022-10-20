@@ -1,3 +1,4 @@
+<img width="200px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 
 > **eternityvps.com** (not 24/7)<br />
 > VM (EC2) na AWS com Amazon Linux 2<br />
