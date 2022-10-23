@@ -1,5 +1,6 @@
-<img width="200px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-
+Javascript, HTML, CSS, SCSS, SASS, Bootstrap, Flexbox, PHP, C# NET, React Native, SQL, MySQL, Oracle<br>
+       
+          
 > **eternityvps.com** (not 24/7)<br />
 > VM (EC2) na AWS com Amazon Linux 2<br />
 > NGINX, PHP, phpMyAdmin, MariaDB, Node.js<br />
